@@ -1,0 +1,13 @@
+/* Default CSS
+12.01.2018 18:18
+Created by @y05ef
+style.css file
+*/
+a {
+     text-decoration: none;
+	 color:white;
+     }
+body {
+      color:white;
+      background-color:black;
+ }
