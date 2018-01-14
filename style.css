@@ -1,15 +1,14 @@
 /* Default CSS
-12.01.2018 18:18
+14.01.2018 14:55
 Created by @y05ef
 style.css file
 */
 a {
      text-decoration: none;
-	 color:white;
+	 color:black;
      }
 body {
-      color:white;
-      background-color:black;
+      color:black;
      }
  li {
      list-style-type: none;
